@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CsvNameParserCore", "CsvNameParserCore\CsvNameParserCore.csproj", "{F9C14268-8B37-4ADA-A329-EA9BEBC0FB14}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BinaryFog.NameParser", "..\..\BinaryFog\NameParser\BinaryFog.NameParser\BinaryFog.NameParser.csproj", "{2D1C6382-BD2C-4B33-9DD0-BBD81ACC8D2B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F9C14268-8B37-4ADA-A329-EA9BEBC0FB14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9C14268-8B37-4ADA-A329-EA9BEBC0FB14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9C14268-8B37-4ADA-A329-EA9BEBC0FB14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9C14268-8B37-4ADA-A329-EA9BEBC0FB14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D1C6382-BD2C-4B33-9DD0-BBD81ACC8D2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D1C6382-BD2C-4B33-9DD0-BBD81ACC8D2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D1C6382-BD2C-4B33-9DD0-BBD81ACC8D2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D1C6382-BD2C-4B33-9DD0-BBD81ACC8D2B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E3788942-5225-4EB4-B140-58F5777E33E0}
+	EndGlobalSection
+EndGlobal
